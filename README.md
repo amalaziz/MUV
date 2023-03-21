@@ -70,6 +70,6 @@ The REST API to the example app is described below.
  
     
 ## Team Member:
-    > - Amal Alothman
-    > - Khadijah ahmed
-    > - Renad Althubaity
+> - Amal Alothman
+> - Khadijah ahmed
+> - Renad Althubaity
