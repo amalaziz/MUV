@@ -14,7 +14,6 @@ The REST API to the example app is described below.
 
 ## Get list of Movies
 ### Request
-. GET/Movies
-
+    . GET/Movies
 
 ### Response
