@@ -15,5 +15,17 @@ The REST API to the example app is described below.
 ## Get list of Movies
 ### Request
     . GET/Movies
+    . http://127.0.0.1:8080/Movies
 
 ### Response
+. [
+    {
+        "id": "37298027-9BE6-417A-9144-99B95C8F4D8F",
+        "castname": "Lama,Ahamed,Sara",
+        "yearm": 2022,
+        "title": "Movie1",
+        "avg_rate": 8.4499998092651367,
+        "description": "Peter Parker was crucial in the evolution of Marvel comics because he was fallible and had recognizable human traits."
+    }
+]
+
